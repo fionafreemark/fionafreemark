@@ -1,8 +1,8 @@
 ### Hey, I'm Fiona! 😸
 - 🖥 Front-End Web Developer & Artist
-- 📍 Toronto, Canada
-- 📚 Currently studying Web Development at Juno College of Technology
+- 📍 Scarborough (Toronto), ON, Canada
+- 📚 Recent Graduate of Juno College of Technology's <a href="https://junocollege.com/company/">Immersive Web Development Bootcamp</a>
 - 🔗 Check out my portfolio: <a href="www.freemark.dev">freemark.dev</a>
-- 💡 React.js, JavaScript, Firebase, SCSS, CSS3, HTML5
-- 💬 Let's chat art, cats & where to find the best treats in the city!
-- 📫 Get in <a href="mailto:freemark.dev@gmail.com">Touch</a>!
+- 💡 React.js, JavaScript, Firebase, APIs, SCSS, CSS3, HTML5, Netlify
+- 💬 Let's chat art, cats & coding projects!
+- 📫 <a href="mailto:fiona.freemark@gmail.com">Get in Touch</a>!
