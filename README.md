@@ -1,4 +1,4 @@
-### Hey, I'm Fiona! 😸
+### Hey, I'm Fiona! 👩🏻‍💻
 - 🖥 Front-End Web Developer & Artist
 - 📍 Scarborough (Toronto), ON, Canada
 - 📚 Recent Graduate of Juno College of Technology's <a href="https://junocollege.com/company/">Immersive Web Development Bootcamp</a>
