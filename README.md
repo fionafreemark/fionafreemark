@@ -5,9 +5,9 @@ As a recent graduate of Juno College's Immersive Web Development Bootcamp, I am 
 
 With a **keen eye for design and an unwavering attention to detail**, I strive to build pixel-perfect websites that are not only functional but also visually stunning. I am always using my **problem-solving abilities to look for innovative ways to bring my artistic vision to life** as I take on new projects and continue to grow my tech stack.
 
-- 🖥 Front-End Web Developer & Artist
-- 📍 Scarborough (Toronto), ON, Canada
-- 🔗 Check out my portfolio: <a href="https://freemark.dev">freemark.dev</a>
-- 📚 Recent Graduate of Juno College of Technology's <a href="https://junocollege.com/company/">Immersive Web Development Bootcamp</a>
-- 💡 React.js, JavaScript, Firebase, APIs, SCSS, CSS3, HTML5, Netlify, Photoshop, Lightroom, Digital Photography
-- 📫 Let's work together:<a href="mailto:fiona.freemark@gmail.com"> Get in Touch</a>!
+🖥 Front-End Web Developer & Artist <br>
+📍 Scarborough (Toronto), ON, Canada <br>
+🔗 Check out my portfolio: <a href="https://freemark.dev">freemark.dev</a><br>
+📚 Recent Graduate of Juno College of Technology's <a href="https://junocollege.com/company/">Immersive Web Development Bootcamp</a><br>
+💡 React.js, JavaScript, Firebase, APIs, SCSS, CSS3, HTML5, Netlify, Photoshop, Lightroom, Digital Photography<br>
+📫 Interested in working together?<a href="mailto:fiona.freemark@gmail.com"> Get in Touch</a>!<br>
