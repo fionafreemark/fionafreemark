@@ -5,8 +5,10 @@ As a recent graduate of Juno College's <a href="https://junocollege.com/company/
 
 With a **keen eye for design** and an **unwavering attention to detail**, I strive to build **pixel-perfect websites** that are not only functional but also visually stunning. I am always using my **problem-solving abilities to look for innovative ways to bring my artistic vision to life** as I take on new projects and continue to grow my tech stack.
 
+My interests include hitting the streets with my camera to catch golden hour, and finding fun and efficient design solutions for small spaces!
+
 ### Skills & Tools
-React.js, JavaScript, Firebase, APIs, SCSS, CSS3, HTML5, Netlify, Photoshop, Lightroom, Digital Photography
+React.js, JavaScript, Firebase, APIs, SCSS, CSS3, HTML5, Wordpress, Netlify, Figma, Photoshop, Lightroom, Digital Photography
 
 ### Connect with Me
 <a href="https://freemark.dev">Portfolio</a><br>
