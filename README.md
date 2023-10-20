@@ -7,12 +7,12 @@ I am **actively seeking new work opportunities** and I'm **open to in-office, hy
 Outside of development my interests include photography & finding fun and efficient design solutions for small spaces.
 
 ### Skills & Tools
-React.js, JavaScript, SCSS, CSS3, HTML5, Firebase, APIs <br>
+React.js, JavaScript, Drupal CMS, SCSS, CSS3, HTML5, Firebase, APIs <br>
 Wordpress, Netlify, Squarespace, Format <br>
 Figma, Photoshop, Lightroom, Digital Photography
 
 ### Transferrable Skills
-Creative problem solving, customer service, team work, analytical thinking, communication, adaptbility. 
+Creative problem solving, analytical thinking, communication, adaptbility, growth mindset, customer service, team work. 
 
 ## Connect with Me
 ### <p><a href="https://freemark.dev">Portfolio</a> - <a href="https://www.linkedin.com/in/fiona-freemark/">LinkedIn</a> - <a href="mailto:freemark.dev@gmail.com">Email</a></p>
